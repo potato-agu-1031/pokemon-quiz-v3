@@ -1,0 +1,330 @@
+{
+  "assets": {
+    "フシギダネ": {
+      "image": "images/001.jpg"
+    },
+    "フシギソウ": {
+      "image": "images/002.jpg"
+    },
+    "フシギバナ": {
+      "image": "images/003.jpg"
+    },
+    "ヒトカゲ": {
+      "image": "images/004.jpg"
+    },
+    "リザード": {
+      "image": "images/005.jpg"
+    },
+    "リザードン": {
+      "image": "images/006.jpg"
+    },
+    "ゼニガメ": {
+      "image": "images/007.jpg"
+    },
+    "カメール": {
+      "image": "images/008.jpg"
+    },
+    "カメックス": {
+      "image": "images/009.jpg"
+    },
+    "キャタピー": {
+      "image": "images/010.jpg"
+    },
+    "トランセル": {
+      "image": "images/011.jpg"
+    },
+    "バタフリー": {
+      "image": "images/012.jpg"
+    },
+    "ビードル": {
+      "image": "images/013.jpg"
+    },
+    "コクーン": {
+      "image": "images/014.jpg"
+    },
+    "スピアー": {
+      "image": "images/015.jpg"
+    },
+    "ポッポ": {
+      "image": "images/016.jpg"
+    },
+    "ピジョン": {
+      "image": "images/017.jpg"
+    },
+    "ピジョット": {
+      "image": "images/018.jpg"
+    },
+    "コラッタ": {
+      "image": "images/019.jpg"
+    },
+    "ラッタ": {
+      "image": "images/020.jpg"
+    },
+    "オニスズメ": {
+      "image": "images/021.jpg"
+    },
+    "オニドリル": {
+      "image": "images/022.jpg"
+    },
+    "アーボ": {
+      "image": "images/023.jpg"
+    },
+    "アーボック": {
+      "image": "images/024.jpg"
+    },
+    "ピカチュウ": {
+      "image": "images/025.jpg"
+    },
+    "ライチュウ": {
+      "image": "images/026.jpg"
+    },
+    "コダック": {
+      "image": "images/027.jpg"
+    },
+    "ゴルダック": {
+      "image": "images/028.jpg"
+    },
+    "マンキー": {
+      "image": "images/029.jpg"
+    },
+    "オコリザル": {
+      "image": "images/030.jpg"
+    },
+    "ガーディ": {
+      "image": "images/031.jpg"
+    },
+    "ウインディ": {
+      "image": "images/032.jpg"
+    },
+    "ニョロモ": {
+      "image": "images/033.jpg"
+    },
+    "ニョロゾ": {
+      "image": "images/034.jpg"
+    },
+    "ニョロボン": {
+      "image": "images/035.jpg"
+    },
+    "ケーシィ": {
+      "image": "images/036.jpg"
+    },
+    "ユンゲラー": {
+      "image": "images/037.jpg"
+    },
+    "フーディン": {
+      "image": "images/038.jpg"
+    },
+    "ワンリキー": {
+      "image": "images/039.jpg"
+    },
+    "ゴーリキー": {
+      "image": "images/040.jpg"
+    },
+    "カイリキー": {
+      "image": "images/041.jpg"
+    },
+    "マダツボミ": {
+      "image": "images/042.jpg"
+    },
+    "ウツドン": {
+      "image": "images/043.jpg"
+    },
+    "ウツボット": {
+      "image": "images/044.jpg"
+    },
+    "メノクラゲ": {
+      "image": "images/045.jpg"
+    },
+    "ドククラゲ": {
+      "image": "images/046.jpg"
+    },
+    "イシツブテ": {
+      "image": "images/047.jpg"
+    },
+    "ゴローン": {
+      "image": "images/048.jpg"
+    },
+    "ゴローニャ": {
+      "image": "images/049.jpg"
+    },
+    "ポニータ": {
+      "image": "images/050.jpg"
+    },
+    "ヤドン": {
+      "image": "images/051.jpg"
+    },
+    "ヤドラン": {
+      "image": "images/052.jpg"
+    },
+    "サイホーン": {
+      "image": "images/053.jpg"
+    },
+    "サイドン": {
+      "image": "images/054.jpg"
+    },
+    "ラッキー": {
+      "image": "images/055.jpg"
+    },
+    "モンジャラ": {
+      "image": "images/056.jpg"
+    },
+    "ガルーラ": {
+      "image": "images/057.jpg"
+    },
+    "タッツー": {
+      "image": "images/058.jpg"
+    },
+    "シードラ": {
+      "image": "images/059.jpg"
+    },
+    "トサキント": {
+      "image": "images/060.jpg"
+    },
+    "アズマオウ": {
+      "image": "images/061.jpg"
+    },
+    "ヒトデマン": {
+      "image": "images/062.jpg"
+    },
+    "スターミー": {
+      "image": "images/063.jpg"
+    },
+    "バリヤード": {
+      "image": "images/064.jpg"
+    },
+    "ストライク": {
+      "image": "images/065.jpg"
+    },
+    "ルージュラ": {
+      "image": "images/066.jpg"
+    },
+    "エレブー": {
+      "image": "images/067.jpg"
+    },
+    "ブーバー": {
+      "image": "images/068.jpg"
+    },
+    "カイロス": {
+      "image": "images/069.jpg"
+    },
+    "ケンタロス": {
+      "image": "images/070.jpg"
+    },
+    "コイキング": {
+      "image": "images/071.jpg"
+    },
+    "ギャラドス": {
+      "image": "images/072.jpg"
+    },
+    "ラプラス": {
+      "image": "images/073.jpg"
+    },
+    "メタモン": {
+      "image": "images/074.jpg"
+    },
+    "イーブイ": {
+      "image": "images/075.jpg"
+    },
+    "シャワーズ": {
+      "image": "images/076.jpg"
+    },
+    "サンダース": {
+      "image": "images/077.jpg"
+    },
+    "ブースター": {
+      "image": "images/078.jpg"
+    },
+    "ポリゴン": {
+      "image": "images/079.jpg"
+    },
+    "オムナイト": {
+      "image": "images/080.jpg"
+    },
+    "オムスター": {
+      "image": "images/081.jpg"
+    }
+  },
+  "pokemon": [
+    "フシギダネ",
+    "フシギソウ",
+    "フシギバナ",
+    "ヒトカゲ",
+    "リザード",
+    "リザードン",
+    "ゼニガメ",
+    "カメール",
+    "カメックス",
+    "キャタピー",
+    "トランセル",
+    "バタフリー",
+    "ビードル",
+    "コクーン",
+    "スピアー",
+    "ポッポ",
+    "ピジョン",
+    "ピジョット",
+    "コラッタ",
+    "ラッタ",
+    "オニスズメ",
+    "オニドリル",
+    "アーボ",
+    "アーボック",
+    "ピカチュウ",
+    "ライチュウ",
+    "コダック",
+    "ゴルダック",
+    "マンキー",
+    "オコリザル",
+    "ガーディ",
+    "ウインディ",
+    "ニョロモ",
+    "ニョロゾ",
+    "ニョロボン",
+    "ケーシィ",
+    "ユンゲラー",
+    "フーディン",
+    "ワンリキー",
+    "ゴーリキー",
+    "カイリキー",
+    "マダツボミ",
+    "ウツドン",
+    "ウツボット",
+    "メノクラゲ",
+    "ドククラゲ",
+    "イシツブテ",
+    "ゴローン",
+    "ゴローニャ",
+    "ポニータ",
+    "ヤドン",
+    "ヤドラン",
+    "サイホーン",
+    "サイドン",
+    "ラッキー",
+    "モンジャラ",
+    "ガルーラ",
+    "タッツー",
+    "シードラ",
+    "トサキント",
+    "アズマオウ",
+    "ヒトデマン",
+    "スターミー",
+    "バリヤード",
+    "ストライク",
+    "ルージュラ",
+    "エレブー",
+    "ブーバー",
+    "カイロス",
+    "ケンタロス",
+    "コイキング",
+    "ギャラドス",
+    "ラプラス",
+    "メタモン",
+    "イーブイ",
+    "シャワーズ",
+    "サンダース",
+    "ブースター",
+    "ポリゴン",
+    "オムナイト",
+    "オムスター"
+  ]
+}
